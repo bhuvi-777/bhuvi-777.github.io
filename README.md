@@ -7,7 +7,7 @@ Electrical & Electronics Engineering Student | Renewable Energy | Automation | R
 
 ## Preview
 
-![Portfolio Preview](assets/images/portfolio-preview.png)
+![Portfolio Preview](Portfolio.png)
 
 ## About Me
 Passionate Electrical and Electronics Engineering student with experience in:
