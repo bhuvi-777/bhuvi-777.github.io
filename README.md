@@ -3,7 +3,7 @@
 Electrical & Electronics Engineering Student | Renewable Energy | Automation | Robotics | AI
 
 ## Portfolio Website
-🌐 Live Website: https://bhuvi-777.github.io/Resume/
+🌐 Live Website: https://bhuvi-777.github.io/
 
 ## Preview
 
